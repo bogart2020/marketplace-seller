@@ -23,6 +23,7 @@ Read the helper before answering. These files hold specifics — thresholds, exa
 | The human is doing this | Read |
 |---|---|
 | Selling something — start to finish | The full path below |
+| Starting a new item, or answering intake questions | `helpers/intake.md` |
 | Asking what an item is worth, or answering an offer | `helpers/pricing.md` |
 | About to shoot, or has just sent photos | `helpers/photos.md` |
 | Wanting the title, description, and fields | `helpers/listing.md` |
@@ -33,7 +34,7 @@ Read the helper before answering. These files hold specifics — thresholds, exa
 
 **The full path**, in this order — each step depends on the one before it:
 
-1. **Intake** — what it is, its condition, what it cost, how many. Create the record.
+1. **Intake** — grill out everything that changes the price, the copy, or the handoff, then confirm the picture back. `helpers/intake.md`.
 2. **Photos** — shot list first; grade condition from the photos when they arrive.
 3. **Price** — condition drives which pricing path applies.
 4. **Listing** — copy, written from the graded facts.
