@@ -50,35 +50,30 @@ Set them from the graded facts: **condition** to the exact value `photos.md` ret
 
 ## Description
 
-Structure, in order:
+**One fact per line, labelled.** Buyers read these on a phone, mid-scroll, comparing several listings at once. A paragraph gets skimmed; a labelled line gets read.
 
-1. **What it is** — one line, full identification
-2. **Condition** — the grade in plain words, and what that means for this item
-3. **Flaws** — every one, each pointing at its photo number
-4. **What's included** — and, where it matters, what isn't
-5. **Why you're selling** — one line; it answers a question every PH buyer asks anyway
-6. **How to collect** — meetup areas and payment, from `market/ph.md`
+Order — drop any line the item does not need:
 
 ```
-iPhone 12 128GB, Blue. Unlocked.
+Xiaomi Redmi Note 12 · 128GB · Blue · 4G
 
-Used (good). Battery health 87%. Screen is clean,
-no cracks or dead pixels.
+Condition: Used (good). Everything works.
+Battery: 87%
+Flaws: scratch on back near camera (photo 4)
+Includes: charger. No box.
+Ready: factory reset, accounts removed
+RFS: upgraded
 
-Flaws: small dent on the bottom-left corner (photo 5),
-light scuffing on the frame (photo 6).
-
-Includes the phone and a charging cable. No box.
-Factory reset, iCloud removed.
-
-Selling because I upgraded.
-
-Meetup at SM North or Trinoma. GCash or cash.
+Meetup SM North or Trinoma. GCash or cash.
 ```
 
-Sentence case throughout — no ALL CAPS. **Keep contact details, external links, and shipping-company information out of the description**; Meta's catalog rules prohibit them, and on Marketplace the conversation belongs in Messenger where you keep a record of it.
+Line 1 identifies the exact variant. The block in the middle is the facts a buyer needs to decide. The last line is how they get it.
 
-No published data links description length to sell-through on any platform, so write what a buyer needs to decide and stop. Answering their questions in advance is the goal, not filling space.
+**Every line states a fact about the item or the handoff.** If a line does not change whether someone messages you, cut it — greetings, "feel free to message", "serious buyers only", "no lowballers", "God bless", thanks, and filler adjectives all read as noise at best and as desperation at worst. The flaws line is the exception that earns its length: state each flaw and its photo number, however many there are.
+
+Sentence case — no ALL CAPS. **Keep contact details, external links, and shipping-company information out of the description**; Meta's catalog rules prohibit them, and the conversation belongs in Messenger where you keep a record of it.
+
+No published data links description length to sell-through on any platform. Write what a buyer needs to decide, then stop.
 
 ## Before it goes live
 
