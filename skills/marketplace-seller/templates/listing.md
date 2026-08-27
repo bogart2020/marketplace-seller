@@ -1,23 +1,30 @@
-<!-- Paste-ready. Everything above the rule goes into Facebook. -->
+<!-- Your reference only — never paste anything above the rule. -->
 
-**Title**
-<title line>
-
-**Price**
-<currency><amount>
-
-**Category** <FB category path>
-**Condition** <exact FB condition value>
-
-**Attributes**
-- <field>: <value>
-
-**Description**
-<description body>
+**Floor** <lowest acceptable — never spoken to a buyer>
+**Repricing trigger** <the demand evidence that would justify a drop, and to what>
+**Photo order** <which shot leads, and why>
 
 ---
 
-<!-- Not for pasting — your reference only. -->
-**Floor** <lowest acceptable>
-**Repricing trigger** <the demand evidence that would justify a drop, and to what>
-**Photo order** <which shot leads, and why>
+<!-- Everything below is paste-ready, in the order Facebook's form asks for it. -->
+
+**Title**
+```
+<title>
+```
+
+**Price**
+```
+<number only>
+```
+
+**Category** <FB category path>
+
+**Condition** <exact FB value>
+
+**Attributes** <field: value, one per line>
+
+**Description**
+```
+<description>
+```

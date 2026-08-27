@@ -85,6 +85,16 @@ Then confirm three things:
 - Condition matches the grade exactly, in both the structured field and the prose
 - No overlay text, watermark, or price is baked into any image
 
-Write the copy to the item's `listing.md`, then set `status: listed` and `listed_on` once the human confirms it is actually posted — not before. A record marked live while the listing sits unposted corrupts every day-count and staleness decision downstream.
+## Hand it over last
+
+**End with the paste blocks and put nothing after them.** The human is going to alt-tab to Facebook and copy fields one at a time; anything printed below the blocks makes them scroll back up mid-task.
+
+So the order of the final message is: anything you need to say first, then the floor and repricing note, then the paste blocks — title, price, category, condition, attributes, description — matching the order Facebook's form asks for them.
+
+Put each field in its own fenced code block so one tap copies it cleanly, with no surrounding commentary inside the fence. Price is digits only, no currency symbol and no separators; Facebook's field rejects them.
+
+Say nothing after the description block. No summary, no "let me know if you want changes", no next steps — the work is done and the human is already pasting.
+
+Write the same copy to the item's `listing.md`, then set `status: listed` and `listed_on` once the human confirms it is actually posted — not before. A record marked live while the listing sits unposted corrupts every day-count and staleness decision downstream.
 
 **In the Philippines, posting is capped at 10 listings per week.** Where the human has more items ready than slots remaining, say so and let them choose the order — `market/ph.md` covers how to spend the slots.

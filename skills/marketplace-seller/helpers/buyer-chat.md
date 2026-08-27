@@ -26,9 +26,21 @@ The evidence and the numbers live in `pricing.md`. Three rules drive the drafts:
 
 **Hold the floor.** The floor from `item.md` is never spoken, never hinted at, and never appears in a draft. When an offer sits below it, counter above it or decline warmly.
 
-Answer "LP?" or "last price?" with a number, not a question back. It is a normal, expected opener in the Philippines and refusing to engage reads as unfriendly. Give a figure above your floor and tie it to a condition — collection today, or meeting near you.
+## "Last price?"
+
+**Expect this on nearly every enquiry.** In the Philippines "LP?" or "last price?" is the standard opener, not a lowball and not rudeness. It also is not a buying signal — most people who ask it never meet you. Treat it as the routine first move it is.
+
+**Answer with a number.** Not a question back, not "make an offer", not "how much are you willing to pay". Refusing to name a figure reads as unfriendly and costs you the enquiry.
+
+**Give one step down, tied to a condition.** The concession buys something — collection today, meeting near you, taking it as-is.
 
 > I can do ₱3,450 if you can collect today. I'll meet you at Trinoma.
+
+**Then hold it.** If they ask "last price?" again after you have answered, the number you gave *is* the last price. Repeat it once, unchanged and friendly. Moving a second time when they have not moved at all teaches them that asking again is what lowers your price — and they will keep asking.
+
+> That's my last price for today, and I'll meet you at Trinoma.
+
+**This is why the ask carries a buffer.** Since LP arrives on almost every enquiry, an ask set exactly at comps has nowhere to go — the first message of every conversation forces you to your floor. `pricing.md` builds in room for precisely one step down, and this is the step it is for.
 
 When an offer lands below roughly a fifth of the ask, deals essentially never close from there. Reply once, politely, near the ask, and stop spending attention on it.
 
