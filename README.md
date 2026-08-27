@@ -53,7 +53,7 @@ The skill core is country-neutral. Market specifics — currency, payment rails,
 commands/           /sell-* entry points (Claude Code only)
 skills/marketplace-seller/
   SKILL.md          master router
-  helpers/          pricing · photos · listing · policy
+  helpers/          intake · pricing · photos · listing · policy
                     buyer-chat · safety · inventory
   market/ph.md
   templates/
