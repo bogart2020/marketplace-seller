@@ -1,0 +1,9 @@
+{
+  "name": "marketplace-seller",
+  "description": "Sell secondhand goods on Facebook Marketplace: price research, listing copy, photo direction, buyer negotiation, scam screening, and inventory lifecycle tracking.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Jerick Madrileno"
+  },
+  "keywords": ["marketplace", "reselling", "facebook", "sales", "inventory"]
+}

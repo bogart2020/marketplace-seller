@@ -1,0 +1,13 @@
+{
+  "name": "marketplace-seller",
+  "owner": {
+    "name": "Jerick Madrileno"
+  },
+  "plugins": [
+    {
+      "name": "marketplace-seller",
+      "source": "./",
+      "description": "Price, list, sell, and track secondhand goods on Facebook Marketplace."
+    }
+  ]
+}
